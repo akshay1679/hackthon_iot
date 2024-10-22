@@ -1,4 +1,4 @@
-tensorflow==2.10.0  # Replace with your desired version
-numpy==1.23.0       # Replace with your desired version
-matplotlib==3.5.0   # Replace with your desired version
-scikit-learn==1.0.2  # Replace with your desired version
+tensorflow  # Replace with your desired version
+numpy     # Replace with your desired version
+matplotlib # Replace with your desired version
+scikit-learn # Replace with your desired version
